@@ -1,9 +1,29 @@
 # food-page
-This is a Vue.js application featuring a recipe showcase. It utilizes Vue Router for seamless navigation between pages, including a recipe list and cooking notes. Key components include:
 
-RecipeComponent.vue: Displays individual recipes with props for name, preparation, cooking, and total time, as well as serving size and an image. It features slots for ingredients and directions.
-RecipePage.vue: Lists multiple recipes, each represented by an object in an array, displayed using v-for.
-CookingNotesPage.vue: Displays random cooking tips and provides navigation back to the recipe list.
-AboutView.vue: Shares personal information about the creator.
-HomeView.vue: Introduces the webpage and includes navigation to the recipe list.
-The project is built using the Options API and includes CSS styling for a unique presentation.
+This template should help get you started developing with Vue 3 in Vite.
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
