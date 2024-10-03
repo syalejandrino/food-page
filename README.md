@@ -30,6 +30,6 @@ npm run build
 
 To run the code, make sure to follow the steps:
 
-clone your repository
-run "npm -i"
-ng serve
+1) clone your repository
+2) run "npm -i"
+3) ng serve
