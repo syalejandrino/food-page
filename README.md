@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+To run the code, make sure to follow the steps:
+
+clone your repository
+run "npm -i"
+ng serve
